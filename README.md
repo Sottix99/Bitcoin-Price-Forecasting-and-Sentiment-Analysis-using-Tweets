@@ -1,1 +1,1 @@
-# Bitcoin-Price-Forecasting-and-Sentiment-Analysis-using-Tweets
+# Bitcoin Price Forecasting and Sentiment Analysis using Tweets
