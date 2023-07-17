@@ -6,7 +6,7 @@ This Repository refers to the Final Project of the course Data Driven Economics 
 
 ## Group members:
 * [Giulia Luciani](https://github.com/Giulia-Luciani)
-* Alessandro Sottile
+* [Alessandro Sottile](https://github.com/Sottix99)
 
 # Abstract  
 
