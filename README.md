@@ -11,4 +11,4 @@ This Repository refers to the Final Project of the course Data Driven Economics 
 * [Alessandro Sottile](https://github.com/Sottix99)
 
 ## Abstract
-
+In the course of this study, experiments were conducted on a dataset comprising tweets related to the Bitcoin price. Following a thorough data cleaning process that involved the removal of bot-generated tweets, the initial task involved attempting to differentiate between tweets authored by industry professionals and those by the average individual. Ultimately, four distinct methods of forecasting the Bitcoin price were employed, leveraging the average sentiment of tweets on a given day.
