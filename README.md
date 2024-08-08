@@ -6,6 +6,9 @@
 
 This Repository refers to the Final Project of the course Data Driven Economics (DDE) at University Sapienza of Rome 2022/2023.
 
+## Dataset:
+https://drive.google.com/file/d/1y2VBx4GwzhYqukm-nl45xH6KeXJFHKht/view?usp=sharing
+
 ## Group members:
 * [Giulia Luciani](https://github.com/Giulia-Luciani)
 * [Alessandro Sottile](https://github.com/Sottix99)
