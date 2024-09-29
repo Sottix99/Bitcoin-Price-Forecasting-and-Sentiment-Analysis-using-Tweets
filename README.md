@@ -2,8 +2,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-# Bitcoin Price Forecasting and Sentiment Analysis using Tweets
-
 This Repository refers to the Final Project of the course Data Driven Economics (DDE) at University Sapienza of Rome 2022/2023.
 
  
